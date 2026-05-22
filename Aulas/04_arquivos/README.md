@@ -1,4 +1,4 @@
-# Módulo 4 — Visualização de Dados
+# Aula 04 - Leitura de Arquivos (CSV e Excel)
 
 ## Objetivo
 
@@ -19,3 +19,11 @@ Explorar técnicas de visualização para análise e comunicação de dados. Ao 
 ## Considerações Finais
 
 Uma visualização bem construída comunica em segundos o que levaria parágrafos para explicar em texto. Saber escolher e montar o gráfico certo é uma habilidade tão importante quanto saber calcular a estatística.
+
+---
+
+<div align="right">
+  <a href="../03_dataframe/README.md"><kbd>⬅️ Anterior</kbd></a>
+  <a href="../README.md"><kbd>🏠 Aulas</kbd></a>
+  <a href="../05_tipos/README.md"><kbd>Próxima Aula ➡️</kbd></a>
+</div>

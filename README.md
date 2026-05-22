@@ -139,3 +139,9 @@ jupyter notebook modulo_X/codigos/nome_do_notebook.ipynb
 ```
 
 _Projeto extensionista — UNIFOR, 2026. Repositório público conforme exigência da disciplina T326._
+
+---
+
+<div align="right">
+  <a href="Aulas/README.md"><kbd>Acessar as Aulas ➡️</kbd></a>
+</div>

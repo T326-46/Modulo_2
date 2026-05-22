@@ -1,4 +1,4 @@
-# Módulo 3 — Exploração de Dados e Estatística
+# Aula 03 — Estrutura Principal: DataFrame
 
 ## Objetivo
 
@@ -16,3 +16,11 @@ Apresentar os conceitos estatísticos fundamentais aplicados à análise explora
 ## Considerações Finais
 
 A análise estatística é uma etapa essencial antes de qualquer modelagem. Pular essa fase significa modelar dados que você não entende, o que quase sempre leva a resultados incorretos ou enganosos.
+
+---
+
+<div align="right">
+  <a href="../02_series/README.md"><kbd>⬅️ Anterior</kbd></a>
+  <a href="../README.md"><kbd>🏠 Aulas</kbd></a>
+  <a href="../04_arquivos/README.md"><kbd>Próxima Aula ➡️</kbd></a>
+</div>

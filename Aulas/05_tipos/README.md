@@ -1,4 +1,4 @@
-# Módulo 5 — Limpeza, Tratamento e Transformação de Dados / Introdução ao Machine Learning
+# Aula 05 - Tipos de Dados no Pandas
 
 ## Objetivo
 
@@ -21,3 +21,11 @@ Introduzir os conceitos fundamentais de Aprendizado de Máquina, com foco em Apr
 ## Considerações Finais
 
 Seja pela limpeza dos dados ou pela construção de modelos preditivos, este módulo representa a fronteira entre análise exploratória e aplicação prática da Ciência de Dados em problemas reais.
+
+---
+
+<div align="right">
+  <a href="../04_arquivos/README.md"><kbd>⬅️ Anterior</kbd></a>
+  <a href="../README.md"><kbd>🏠 Aulas</kbd></a>
+  <a href="../06_selecao/README.md"><kbd>Próxima Aula ➡️</kbd></a>
+</div>
