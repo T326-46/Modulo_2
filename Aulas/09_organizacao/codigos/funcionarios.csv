@@ -1,0 +1,9 @@
+nome,sobrenome,idade,cidade,salario,perc_bonus,ativo,cargo
+Ana,Silva,28,Fortaleza,4500,0.10,True,Analista
+Carlos,Souza,35,Recife,7200,0.15,True,Gerente
+Beatriz,Lima,22,Natal,2800,0.05,True,Estagiario
+Diego,Ferreira,41,Fortaleza,9100,0.20,True,Diretor
+Mariana,Costa,30,Recife,5300,0.12,False,Analista
+Pedro,Rocha,26,Fortaleza,3100,0.08,True,Assistente
+Julia,Martins,33,Natal,6400,0.15,True,Gerente
+Rafael,Alves,19,Fortaleza,1800,0.05,True,Estagiario
