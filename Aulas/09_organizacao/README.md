@@ -7,13 +7,11 @@ Compreender como ordenar DataFrames, tratar índices e renomear colunas para pre
 ## Conteúdos
 
 - Ordenação de dados por colunas específicas utilizando `.sort_values()`
-- Ordenação por índices utilizando `.sort_index()`
-- Reinicialização de índices utilizando `.reset_index()`
-- Renomeação de colunas e linhas utilizando `.rename()`
+- Criação de colunas derivadas 
 
 ## Considerações Finais
 
-A organização e renomeação de variáveis representam o polimento final da preparação dos dados. Dados limpos, ordenados e com colunas bem descritas tornam a comunicação dos resultados muito mais clara e profissional.
+A organização e renomeação de variáveis representam o polimento final da preparação dos dados. Dados limpos,  e com colunas bem descritas tornam a comunicação dos resultados muito mais clara e profissional.
 
 ---
 

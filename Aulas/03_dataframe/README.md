@@ -2,22 +2,17 @@
 
 ## Objetivo
 
-Apresentar os conceitos estatísticos fundamentais aplicados à análise exploratória de dados (EDA). Ao final deste módulo, o participante será capaz de descrever numericamente um dataset, identificar padrões, dispersões e correlações entre variáveis, interpretando os resultados com embasamento estatístico.
+Introduzir a manipulação de dados tabulares utilizando a biblioteca Pandas. Ao final deste módulo, o participante será capaz de compreender o tipo de tabela que o Objeto Pandas retém informação.
 
 ## Conteúdos
 
-- Estatística descritiva
-- Média, mediana e moda
-- Variância e desvio padrão
-- Quartis e medidas de dispersão
-- Correlação entre variáveis
-- Interpretação estatística aplicada a datasets reais
+- Estruturas fundamentais: DataFrame
+
 
 ## Considerações Finais
 
-A análise estatística é uma etapa essencial antes de qualquer modelagem. Pular essa fase significa modelar dados que você não entende, o que quase sempre leva a resultados incorretos ou enganosos.
+A manipulação adequada dos dados é pré-requisito para qualquer análise confiável, e o conceito de Dataframe é um entendimento principal para começar os primeiros passos da manipulação de dados.
 
----
 
 <div align="right">
   <a href="../02_series/README.md"><kbd>⬅️ Anterior</kbd></a>

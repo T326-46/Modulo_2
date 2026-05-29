@@ -8,7 +8,6 @@ Compreender como calcular estatísticas resumidas de um DataFrame e como agrupar
 
 - Funções estatísticas básicas (`mean()`, `sum()`, `median()`, `min()`, `max()`, `count()`)
 - Agrupamento de dados utilizando o método `.groupby()`
-- Agregações múltiplas utilizando o método `.agg()`
 - Tabelas dinâmicas básicas e contagem de valores únicos com `.value_counts()`
 
 ## Considerações Finais

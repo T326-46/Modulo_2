@@ -6,14 +6,13 @@ Ensinar como filtrar dados utilizando condições lógicas e consultas flexívei
 
 ## Conteúdos
 
-- Conceito de máscara booleana (filtragem condicional)
+- Filtragem booleana (filtragem condicional)
 - Uso de operadores lógicos compostos: AND (`&`), OR (`|`) e NOT (`~`)
-- Filtragem de valores textuais utilizando o acessor `.str` (como `.str.contains()`)
 - Utilização do método `.query()` para consultas textuais simplificadas
 
 ## Considerações Finais
 
-A capacidade de filtrar conjuntos de dados com lógica precisa é a chave para responder a perguntas de negócios e iniciar a exploração de padrões em subgrupos populacionais.
+A capacidade de filtrar conjuntos de dados com lógica precisa é essencial para responder a perguntas de negócios e iniciar a exploração de padrões.
 
 ---
 
